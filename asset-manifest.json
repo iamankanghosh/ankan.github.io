@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/ankan.github.io/static/css/main.27514a12.css",
-    "main.js": "/ankan.github.io/static/js/main.db7a5bd8.js",
-    "static/js/787.1f11dfe9.chunk.js": "/ankan.github.io/static/js/787.1f11dfe9.chunk.js",
-    "static/media/profile.jpg": "/ankan.github.io/static/media/profile.01418214281c985a42bb.jpg",
-    "static/media/about.jpg": "/ankan.github.io/static/media/about.25037666cca34f8f569a.jpg",
-    "static/media/John-Cv.pdf": "/ankan.github.io/static/media/John-Cv.e83747cf513e0b21a7f1.pdf",
-    "index.html": "/ankan.github.io/index.html",
-    "main.27514a12.css.map": "/ankan.github.io/static/css/main.27514a12.css.map",
-    "main.db7a5bd8.js.map": "/ankan.github.io/static/js/main.db7a5bd8.js.map",
-    "787.1f11dfe9.chunk.js.map": "/ankan.github.io/static/js/787.1f11dfe9.chunk.js.map"
+    "main.css": "/static/css/main.ce91622a.css",
+    "main.js": "/static/js/main.39ca5956.js",
+    "static/js/787.1f11dfe9.chunk.js": "/static/js/787.1f11dfe9.chunk.js",
+    "static/media/profile.jpg": "/static/media/profile.01418214281c985a42bb.jpg",
+    "static/media/about.jpg": "/static/media/about.25037666cca34f8f569a.jpg",
+    "static/media/John-Cv.pdf": "/static/media/John-Cv.e83747cf513e0b21a7f1.pdf",
+    "index.html": "/index.html",
+    "main.ce91622a.css.map": "/static/css/main.ce91622a.css.map",
+    "main.39ca5956.js.map": "/static/js/main.39ca5956.js.map",
+    "787.1f11dfe9.chunk.js.map": "/static/js/787.1f11dfe9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.27514a12.css",
-    "static/js/main.db7a5bd8.js"
+    "static/css/main.ce91622a.css",
+    "static/js/main.39ca5956.js"
   ]
 }
