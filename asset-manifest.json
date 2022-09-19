@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.ce91622a.css",
-    "main.js": "/static/js/main.39ca5956.js",
-    "static/js/787.1f11dfe9.chunk.js": "/static/js/787.1f11dfe9.chunk.js",
-    "static/media/profile.jpg": "/static/media/profile.01418214281c985a42bb.jpg",
-    "static/media/about.jpg": "/static/media/about.25037666cca34f8f569a.jpg",
-    "static/media/John-Cv.pdf": "/static/media/John-Cv.e83747cf513e0b21a7f1.pdf",
-    "index.html": "/index.html",
-    "main.ce91622a.css.map": "/static/css/main.ce91622a.css.map",
-    "main.39ca5956.js.map": "/static/js/main.39ca5956.js.map",
-    "787.1f11dfe9.chunk.js.map": "/static/js/787.1f11dfe9.chunk.js.map"
+    "main.css": "/www.ankan.in/static/css/main.20d8a840.css",
+    "main.js": "/www.ankan.in/static/js/main.ff49627e.js",
+    "static/js/787.1f11dfe9.chunk.js": "/www.ankan.in/static/js/787.1f11dfe9.chunk.js",
+    "static/media/profile.jpg": "/www.ankan.in/static/media/profile.01418214281c985a42bb.jpg",
+    "static/media/about.jpg": "/www.ankan.in/static/media/about.25037666cca34f8f569a.jpg",
+    "static/media/John-Cv.pdf": "/www.ankan.in/static/media/John-Cv.e83747cf513e0b21a7f1.pdf",
+    "index.html": "/www.ankan.in/index.html",
+    "main.20d8a840.css.map": "/www.ankan.in/static/css/main.20d8a840.css.map",
+    "main.ff49627e.js.map": "/www.ankan.in/static/js/main.ff49627e.js.map",
+    "787.1f11dfe9.chunk.js.map": "/www.ankan.in/static/js/787.1f11dfe9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ce91622a.css",
-    "static/js/main.39ca5956.js"
+    "static/css/main.20d8a840.css",
+    "static/js/main.ff49627e.js"
   ]
 }
